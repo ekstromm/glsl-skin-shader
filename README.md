@@ -1,7 +1,7 @@
 # GLSL Skin Shader
 
 ## Description
-This program uses OpenGL and GLSL for rendering skin, created as a final project for my Shaders class.
+This program uses OpenGL and GLSL for rendering skin in real time, created as a final project for my Shaders class.
 
 ## Screenshots
 <div align="center">
