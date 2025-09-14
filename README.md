@@ -1,7 +1,7 @@
 # GLSL Skin Shader
 
 ## Description
-A program for rendering skin in real time, using OpenGL and GLSL. This program started as a final project for my Shaders class.
+A GLSL shader for rendering realistic skin in real time, viewed with a C++ OpenGL program that displays a model with the applied shader. This program started as a final project for my Shaders class.
 
 ## Screenshots
 <div align="center">
